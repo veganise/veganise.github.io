@@ -1,0 +1,38 @@
+title: Veganise
+description: Articles about animal rights and veganism
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.veganise.co" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 5
+paginate_path: "/page/:num"
+
+
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+  - scope:
+      path: '_tags'
+    values:
+      permalink: tag/:basename/index:output_ext
+
+include:
+  - _pages
+  - _tags
+
+# Tags
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed

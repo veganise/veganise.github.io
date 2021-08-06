@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: Veganise
+logo: logo.svg # You can add own logo.
+description: Blog about animal rights and veganism
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Samuel Molinari
+  say-hello: <strong>Sam</strong>
+  bio: Software engineer 🧑🏻‍💻, soyboy 🌱
+
+
+#-------------------------------
+# Contact links
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: veganise # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+#instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-JJE9C8P98V
+
+
+#-------------------------------
+# Newsletter
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
