@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  M&S Announces opening of maternity clinic
+title:  M&S Announces Opening of Maternity Clinic
+description: Marks & Spencer has announced it is establishing a healthcare department. The Birtish retailer will open its maternity clinic in London this September.
 date:   2021-08-06T00:00:00
-image:  posts/2021-08-06-marks-and-spencer-announces-opening-of-maternity-clinic/hero.png
+image:  /images/posts/2021-08-06-marks-and-spencer-announces-opening-of-maternity-clinic/hero.png
 tags:   Dairy Satire M&S
 ---
 
